@@ -1,0 +1,32 @@
+.winBox{
+    width: 250px;
+    height: 200px;
+    padding: 5px;
+    background-color: #ee2323;
+    font-weight: 100;
+    font-size: 1.5rem;
+    border: 2px #ee2323 solid;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    top: 10%;
+    left:7%;
+
+  }
+  .winPrize{
+display: flex;
+      margin: 0 auto;
+    width: 90%;
+    height: 60px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: rgb(48, 47, 47);
+    text-align: center;
+    position: relative;
+    background-color: ivory;
+align-items: center;
+justify-content: center;
+  }

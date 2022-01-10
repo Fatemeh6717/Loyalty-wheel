@@ -1,0 +1,8 @@
+.arrow {
+    position: absolute;
+    top: 10%;
+    font-size: 40px;
+    z-index: 3;
+    width: 55px;
+    height: 65px;
+}

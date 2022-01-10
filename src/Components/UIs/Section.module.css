@@ -1,0 +1,32 @@
+.shape {
+    height:50%;
+    width:135px;
+      background-color: rgb(74, 75, 75);
+    clip-path: polygon(100% 0 , 50% 100% , 0 0 );
+    position: absolute;
+      top: 0;
+      left:33%;
+    text-align:center;
+    display:flex;
+    align-items:flex-start;
+    justify-content: center;
+    transform-origin:bottom;
+      margin: 0;
+     
+  }
+  .lightColor{
+    background-color: rgb(165, 165, 165);
+  }
+ .winners{
+   background-color: rgb(131, 131, 117);
+ }
+.secondStyle{
+  width:189px;
+  top: 0;
+  left:12%;
+}
+.newRound{
+  width:291px;
+  top: 0;
+  left:13.7%;
+}
